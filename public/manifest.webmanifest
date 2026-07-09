@@ -1,0 +1,25 @@
+{
+  "name": "숨은 카멜레온",
+  "short_name": "숨은 카멜레온",
+  "description": "배경 속에 자연스럽게 숨어 있는 형태를 관찰해 보세요.",
+  "icons": [
+    {
+      "src": "app-logo-600.png",
+      "type": "image/png",
+      "sizes": "600x600",
+      "purpose": "any"
+    },
+    {
+      "src": "app-logo-maskable-600.png",
+      "type": "image/png",
+      "sizes": "600x600",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#f7f9fc",
+  "theme_color": "#2f80ed",
+  "display": "standalone",
+  "orientation": "portrait"
+}
